@@ -804,14 +804,14 @@ PrefabInstance:
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 1933069850631641511, guid: a989a26c76875fb43b14d309592f9e72, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 8472576697862486479}
+      addedObject: {fileID: 8472576697862486483}
   m_SourcePrefab: {fileID: 100100000, guid: a989a26c76875fb43b14d309592f9e72, type: 3}
 --- !u!1 &8472576697862486478 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1933069850631641511, guid: a989a26c76875fb43b14d309592f9e72, type: 3}
   m_PrefabInstance: {fileID: 8472576697862486477}
   m_PrefabAsset: {fileID: 0}
---- !u!82 &8472576697862486479
+--- !u!82 &8472576697862486483
 AudioSource:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
