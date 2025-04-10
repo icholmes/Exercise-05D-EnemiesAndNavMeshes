@@ -1,5 +1,7 @@
 # Project 05
+04/10/25
 
+Mouse Quest: a first-person puzzle game in which you play as a mouse trying to escape a maze you've been placed into for research. Collect cheese cubes, avoid the experimental pills the scientists throw at you, and escape the maze!
 
 ## Implementation
 - base level requirements EXCEPT score reporting (+14)
