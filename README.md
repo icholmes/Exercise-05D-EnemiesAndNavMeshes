@@ -1,13 +1,14 @@
-# Exercise-05c-LightsAndMaterials
+# Project 05
 
 
 ## Implementation
 Added enemies + nav meshes.
 
 ## References
+N/A
 
 ## Future Development
-Projects 05
+N/A
 
 ## Created by
 Izzy Holmes
